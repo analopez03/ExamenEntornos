@@ -17,13 +17,6 @@ public class Empleado {
 	// TODO Auto-generated constructor stub
 	}
 
-	public Empleado(String nombre, String apellido, Double salario) {
-		super();
-		this.nombre = nombre;
-		this.apellido = apellido;
-		this.salario = salario;
-	}
-
 	public String getNombre() {
 		return nombre;
 	}
