@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		//Instantanea 1
 		Empleado e1 = new Empleado("Juan", "Gomez", 1200.0);
+		//Instantanea 2
+		Empleado e2 = new Empleado("Sara", "López", 1340.0);
 	}
 
 }
