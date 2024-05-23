@@ -1,16 +1,20 @@
 package com.examen.entornos;
 
 public class Empleado {
-  //Instantanea 1
-  private String nombre;
-  //Instantanea 2
-  private String apellido;
-  //Instantanea 3
-  private Double salario;
-  //Instantanea 4
-  public Empleado() {
-		super();
-		// TODO Auto-generated constructor stub
+	//Instantanea 5
+	//elimino la instantanea 1
+  	//Instantanea 2
+  	private String apellido;
+  	//Instantanea 3
+  	private Double salario;
+ 	//Instantanea 4
+
+	//Instantanea 6 
+	private String dni;
+	
+  	public Empleado() {
+	super();
+	// TODO Auto-generated constructor stub
 	}
 
 	public Empleado(String nombre, String apellido, Double salario) {
