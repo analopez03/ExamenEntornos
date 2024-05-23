@@ -1,8 +1,8 @@
 package com.examen.entornos;
 
 public class Empleado {
-  //Instantanea 1
-  private String nombre;
+	//Instantanea 5
+	//elimino la instantanea 1
   //Instantanea 2
   private String apellido;
   //Instantanea 3
